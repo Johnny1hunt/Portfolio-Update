@@ -3,7 +3,7 @@
 The personal site of Ayodele John Olatunji, an AI data evaluation specialist and
 front-end developer based in Akure, Nigeria.
 
-**Live:** _add the Vercel URL here once deployed_
+**Live:** (https://portfolio-update-eight-livid.vercel.app)
 
 ---
 
